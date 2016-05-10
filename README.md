@@ -152,7 +152,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * TBD
 * TBD
 
-#### Group 3 - TBD (Arun / Travis)
+#### Group 3 - TBD (Arun / Cory)
 
 * TBD
 * TBD
@@ -166,7 +166,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * TBD
 * TBD
 
-#### Group 5 - TBD (Justin C. / Cory)
+#### Group 5 - TBD (Justin C. / Travis)
 
 * TBD
 * TBD
