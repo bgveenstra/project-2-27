@@ -138,35 +138,35 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - TBD (JC)
+#### Group 1 - TBD (Brianna)
 
 * TBD
 * TBD
 * TBD
 * TBD
 
-#### Group 2 - TBD (NA)
+#### Group 2 - TBD (Brianna)
 
 * TBD
 * TBD
 * TBD
 * TBD
 
-#### Group 3 - TBD (JL)
+#### Group 3 - TBD (Arun / Travis)
 
 * TBD
 * TBD
 * TBD
 * TBD
 
-#### Group 4 - TBD (NA)
+#### Group 4 - TBD (Arun / Cory)
 
 * TBD
 * TBD
 * TBD
 * TBD
 
-#### Group 5 - TBD (JL)
+#### Group 5 - TBD (Justin C. / Cory)
 
 * TBD
 * TBD
