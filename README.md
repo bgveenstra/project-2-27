@@ -138,40 +138,40 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - TBD (Brianna)
+#### Group 1 - Microblogging (Twitter) with geolocation (Brianna)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Anna
+* Eric
+* Ilter
+* Joanne
 
-#### Group 2 - TBD (Brianna)
+#### Group 2 - Optimize your day with geolocation and Google API (Brianna)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Justin
+* Paul
+* Jonathan
+* John
 
-#### Group 3 - TBD (Arun / Cory)
+#### Group 3 - Picture app with groups (Arun / Cory)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Phill
+* Herman
+* Marcelo
+* Adam
 
-#### Group 4 - TBD (Arun / Cory)
+#### Group 4 - Plan group outings (Arun / Cory)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Jackie
+* Rene
+* Sarah
+* Bryan
 
-#### Group 5 - TBD (Justin C. / Travis)
+#### Group 5 - Roommate management (Justin C. / Travis)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Arthur
+* Ayush
+* Nathan
+* Andrea
 
 ---
 
