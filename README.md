@@ -152,7 +152,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Jonathan
 * John
 
-#### Group 3 - Picture app with groups (Arun / Cory)
+#### Group 3 - Picture app with groups (Arun / Travis)
 
 * Phill
 * Herman
@@ -166,7 +166,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Sarah
 * Bryan
 
-#### Group 5 - Roommate management (Justin C. / Travis)
+#### Group 5 - Roommate management (Justin C.)
 
 * Arthur
 * Ayush
